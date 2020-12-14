@@ -1,0 +1,3 @@
+.strike:checked + .strikeThrough{
+    text-decoration: line-through;
+}
